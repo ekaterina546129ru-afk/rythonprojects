@@ -13,3 +13,4 @@ for digit in number_str:
 
 print("Сумма цифр:", sum_of_digits)
 print("Произведение цифр:", product_of_digits)
+#fdgjdkgjdlkxf
